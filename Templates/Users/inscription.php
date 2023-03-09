@@ -1,5 +1,5 @@
 <?php
-    require_once("././Model/userModel.php")
+    require_once("Model/usersModel.php")
 ?>
 <!DOCTYPE html>
 <html lang="en">
